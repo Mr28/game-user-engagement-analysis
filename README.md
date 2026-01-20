@@ -51,11 +51,13 @@
 ## **3. Exploratory Insights**
 
 ### **a. Seasonality of Playtime**
+![total_playtime_distribution](total_playtime_distribution.png")
 Daily total playtime shows noticeable fluctuations, including increases in early May and early July.  
 These may correspond to internal events (updates, promotions) or external factors (holidays, school breaks).  
 Both A/B populations follow similar trends, though Population 1 shows higher engagement in early June—worth further statistical investigation.
 
 ### **b. Geographic Distribution**
+![player distribution across countries](player_distribution_across_countries.png")
 The largest absolute player counts come from the US and China.  
 However, when normalized by country population, several European countries, Canada, and Australia show higher per‑capita engagement.  
 This pattern may reflect regional marketing effectiveness or stronger franchise affinity.
